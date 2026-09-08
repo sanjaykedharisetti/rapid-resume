@@ -1,0 +1,25 @@
+﻿Job Title: Senior Data Scientist
+Company: Retail Intelligence Analytics
+Location: Chicago, IL / Remote
+
+About the Role:
+Join our analytics core team to transform terabytes of customer transactions into predictive intelligence, recommendation engines, and strategic growth insights.
+
+Key Responsibilities:
+- Extract, clean, and explore large-scale tabular data using SQL and Pandas.
+- Build statistical models, hypothesis testing frameworks, and A/B test experiments.
+- Develop predictive machine learning models for customer lifetime value and churn prevention.
+- Create interactive executive dashboards using Tableau and Power BI.
+- Communicate complex analytical insights to executive stakeholders.
+
+Required Qualifications & Skills:
+- Bachelor's or Master's degree in Statistics, Mathematics, Data Science, or Computer Science.
+- 3+ years of applied experience in Data Science and quantitative modeling.
+- Advanced proficiency in Python, SQL, Pandas, NumPy, and Scikit-learn.
+- Strong grounding in Statistics, A/B testing, and exploratory data analysis.
+- Experience building interactive dashboards with Tableau.
+
+Preferred Qualifications:
+- Familiarity with Cloud platforms like Google Cloud Platform or AWS.
+- Experience with NLP and text processing using NLTK or spaCy.
+- Exposure to BigQuery and Snowflake.

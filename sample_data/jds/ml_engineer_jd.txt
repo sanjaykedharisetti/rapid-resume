@@ -1,0 +1,26 @@
+﻿Job Title: Machine Learning Engineer
+Company: CloudScale AI Technologies
+Location: San Francisco, CA / Remote
+
+About the Role:
+We are looking for a Senior Machine Learning Engineer to design, train, and deploy state-of-the-art predictive models and NLP pipelines into production cloud infrastructure. You will work closely with cross-functional data teams to build scalable AI systems.
+
+Key Responsibilities:
+- Build and fine-tune predictive models and deep learning architectures using PyTorch and Scikit-learn.
+- Design NLP pipelines for text classification, sentiment analysis, and semantic search.
+- Package and deploy machine learning models as high-throughput REST APIs using FastAPI and Docker.
+- Implement MLOps best practices including automated model evaluation, tracking with MLflow, and continuous retraining.
+- Collaborate with data engineering to optimize feature stores and ETL pipelines.
+
+Required Qualifications & Skills:
+- Bachelor's degree in Computer Science, Data Science, or related engineering discipline.
+- 3+ years of professional experience in machine learning and Python development.
+- Deep expertise in Python, Scikit-learn, PyTorch, and SQL.
+- Hands-on experience with Docker containerization and REST API development.
+- Strong grounding in Machine Learning fundamentals, feature engineering, and model evaluation metrics.
+
+Preferred Qualifications (Nice to Have):
+- Experience deploying models on AWS (SageMaker, ECS, S3).
+- Familiarity with Kubernetes orchestration and CI/CD pipelines.
+- Experience with Large Language Models, Hugging Face Transformers, or LangChain.
+- Background in Distributed Systems and MLOps workflows.

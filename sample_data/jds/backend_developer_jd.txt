@@ -1,0 +1,25 @@
+﻿Job Title: Python Backend Developer
+Company: FinTech Velocity Systems
+Location: New York, NY / Hybrid
+
+About the Role:
+We are seeking an experienced Python Backend Developer to engineer robust microservices, transactional databases, and resilient APIs powering our high-volume financial clearing platform.
+
+Key Responsibilities:
+- Design, build, and maintain high-performance REST APIs using FastAPI and Python.
+- Architect scalable relational database schemas with PostgreSQL and optimize SQL queries.
+- Implement low-latency caching solutions using Redis.
+- Build event-driven background task processing with Celery.
+- Maintain CI/CD pipelines and manage containerized microservices in production.
+
+Required Qualifications & Skills:
+- Bachelor's or Master's degree in Computer Science or Software Engineering.
+- 2+ years of professional backend engineering experience.
+- Core proficiency in Python, FastAPI, SQL, and PostgreSQL.
+- Experience with Docker, Redis, and Git version control.
+- Solid understanding of REST API principles, microservices, and database indexing.
+
+Preferred Qualifications:
+- Experience with Kubernetes and Terraform infrastructure as code.
+- Familiarity with AWS cloud architecture (ECS, RDS).
+- Experience with Pytest and automated unit testing.

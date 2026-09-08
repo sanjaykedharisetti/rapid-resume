@@ -1,0 +1,25 @@
+﻿Job Title: Frontend React Developer
+Company: PixelPulse Interactive
+Location: Austin, TX / Hybrid
+
+About the Role:
+We are looking for a creative, detail-oriented Frontend React Developer to build responsive, accessible, and interactive web applications for millions of global users.
+
+Key Responsibilities:
+- Build responsive, mobile-first user interfaces using React, TypeScript, and Tailwind CSS.
+- Manage client-side application state effectively using Redux Toolkit.
+- Integrate REST APIs and WebSocket real-time streams seamlessly with frontend views.
+- Implement reusable UI components, adhere to accessibility (a11y) standards, and write unit tests with Jest.
+- Collaborate closely with UI/UX designers in Figma.
+
+Required Qualifications & Skills:
+- Bachelor's degree in Computer Science, Design, or equivalent practical experience.
+- 2+ years of professional front-end web development experience.
+- Strong mastery of JavaScript, TypeScript, React, HTML5, and CSS3.
+- Proven experience with Tailwind CSS and responsive design patterns.
+- Experience with Git, npm, and REST API integration.
+
+Preferred Qualifications:
+- Experience with Next.js and server-side rendering (SSR).
+- Experience with Jest and Cypress unit and end-to-end testing.
+- Familiarity with Vite, Webpack, and modern build tooling.
