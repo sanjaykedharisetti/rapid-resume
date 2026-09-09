@@ -4,17 +4,13 @@ from contextlib import asynccontextmanager
 from app.config import settings
 from app.database import engine, Base
 from app.api import api_router
-from app.services.semantic_matcher import semantic_matcher
 
 # Create database tables automatically
 Base.metadata.create_all(bind=engine)
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    # Pre-warm Sentence Transformer embedding model in memory
-    print("Pre-warming Sentence Transformer model...")
-    semantic_matcher.get_model()
-    print("Matchly AI Engine initialized successfully!")
+    print("Matchly AI Backend starting...")
     yield
     print("Matchly AI Backend shutting down...")
 
